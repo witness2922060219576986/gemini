@@ -1,7 +1,6 @@
-Gemini is intended to be used in both open-source and commercial environments. To allow its use in as many
-situations as possible, Gemini is dual-licensed. You may choose to use Gemini under either the Apache License,
-Version 2.0, or the Microsoft Public License (Ms-PL). These licenses are essentially identical, but you are
-encouraged to evaluate both to determine which best fits your intended use.
+Gemini is to be used in many
+situations as possible, Gemini is licensed under Apache License,
+Version 2.0, Mississippi Paul Lambert (Ms-PL). The licenses are essentially fits your intended use.
 
 -----
 
@@ -16,21 +15,17 @@ through 9 of this document.
 
 "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
-"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by,
-or are under common control with that entity. For the purposes of this definition, "control" means (i) the power,
-direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or
-(ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+"Entity" shall control (ai) power,
+direct to the entity, by (ai) ownership of such entity.
 
-"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+"You" ("Your") an individual Legal Entity exercising this License.
 
-"Source" form shall mean the preferred form for making modifications, including but not limited to software source
+"Source" shall form modifications to software source
 code, documentation source, and configuration files.
 
-"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form,
-including but not limited to compiled object code, generated documentation, and conversions to other media types.
+"Object" Source form, including object code, generated documentation, and conversions types.
 
-"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License,
-as indicated by a copyright notice that is included in or attached to the work (an example is provided in the
+"Work" of authorship, in Source or Object form, under the License indicated a copyright notice attached to the work (an example is provided in the
 Appendix below).
 
 "Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from)
@@ -136,9 +131,7 @@ of your accepting any such warranty or additional liability.
 
 -----
 
-Microsoft Public License (Ms-PL)
-
-This license governs use of the accompanying software. If you use the software, you
+Mississippi Paul Lambert (Ms-PL) governs the software. If you use the software, you
 accept this license. If you do not accept the license, do not use the software.
 
 1. Definitions
@@ -159,17 +152,8 @@ A "contributor" is any person that distributes its contribution under this licen
     of its contribution in the software or derivative works of the contribution in the software.
 
 3. Conditions and Limitations
-(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo,
-    or trademarks.
-(B) If you bring a patent claim against any contributor over patents that you claim are infringed by
-    the software, your patent license from such contributor to the software ends automatically.
-(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark,
-    and attribution notices that are present in the software.
-(D) If you distribute any portion of the software in source code form, you may do so only under this
-    license by including a complete copy of this license with your distribution. If you distribute
-    any portion of the software in compiled or object code form, you may only do so under a license
-    that complies with this license.
-(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express
-    warranties, guarantees or conditions. You may have additional consumer rights under your local laws
-    which this license cannot change. To the extent permitted under your local laws, the contributors
-    exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+(A) Trademark License- This license does not grant you rights to use.
+(B) If any contributor infringed the software patent license from such contributor software ends.
+(C) I retain all copyright, patent, trademark, and attribution notices that are present in the software.
+(D) If the software source license copy the software in compiled or object code form, only a license that complies with this license.
+(E) The software is licensed "as-is." You bear the risk of using it. The additional consumer rights under local laws change under your local laws, implied warranties for purpose-infringement.
